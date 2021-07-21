@@ -1,0 +1,137 @@
+
+section.intro {
+  background-color: #393E46;
+  padding: 0.5% 5% 0;
+}
+
+div.intro-info {
+  color: #EEEEEE;
+  text-align: center;
+  padding: 3% 5%;
+}
+
+h1.intro-h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+}
+
+h2.intro-h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+span.pro {
+  text-decoration: underline;
+}
+
+img.intro-img {
+  padding: 3% 0%;
+}
+
+section.about-me {
+  background-color: #00ADB5;
+  padding: 5% 5% 3%;
+  color: #EEEEEE;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img.profile-img {
+  padding: 2rem 0;
+}
+
+p.about-me-des {
+  padding-top: 3%;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+section.projects {
+  background-color: #393E46;
+  padding: 5% 5% 2%;
+}
+
+h1.projects-h1 {
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 3rem;
+}
+
+div.project-card {
+  padding: 0 3% 8% 0;
+}
+
+div.TopBar{
+    box-sizing: border-box;
+    height: 25px;
+    background-color: #f1f1f1;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+a.Screen {
+  background-color: #151515;
+  box-sizing: border-box;
+  padding: 20px;
+  width: 100%;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  text-decoration: none;
+  margin-right: 10px;
+  color: #000;
+  cursor: pointer;
+}
+
+p.project-name {
+    font-size: 2rem;
+    color: #6FE7DD;
+}
+
+p.project-type {
+    font-size: 1.5rem;
+    color: #3490DE;
+}
+
+p.project-github {
+    font-size: 1rem;
+    color: #6639A6;
+}
+
+section.skills {
+  background-color: #00ADB5;
+  padding: 5% 5% 3%;
+}
+
+h1.skills-h1 {
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+div.skills-icons {
+  text-align: center;
+}
+
+img.skills-icon {
+  height: 80px;
+  width: 80px;
+  padding-right: 5px
+}
+
+footer.contact {
+  background-color: #393E46;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 5% 5% 1%;
+}
+
+h1.contact-h1 {
+  padding-bottom: 2%;
+}
+
+p.footer-p {
+  padding-top: 2%;
+}
